@@ -1,0 +1,9 @@
+test,feature extractor,matcher,matching time
+1,sift,bf,792.229039
+1,sift,flann,664.067871
+1,orb,bf,34.07956838607788
+1,orb,flann,57.35656976699829
+0,orb,flann,39.78336811065674
+0,orb,bf,31.028783082962036
+0,sift,flann,384.3141486644745
+0,sift,bf,277.73172092437744

@@ -1,0 +1,9 @@
+/output/*
+movie*.mp4
+output*.mp4
+*.html
+*.docx
+*.pdf
+*.rar
+/data/*.mp4
+/test/*.MOV
